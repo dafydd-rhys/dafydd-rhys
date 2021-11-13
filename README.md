@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stryzhh" alt="stryzhh" /></a> </p>
-
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake in Java as part of a university module taught at Swansea University.](https://github.com/Stryzhh/rats-windows-remake)
 
 - 🌱 I’m currently learning **Java, Python, Haskell and Prolog.**
@@ -32,6 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stryzhh&show_icons=true&locale=en&layout=compact" alt="stryzhh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stryzhh&show_icons=true&locale=en" alt="stryzhh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stryzhh&" alt="stryzhh" /></p>
-
