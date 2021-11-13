@@ -31,4 +31,4 @@
 
 ### Spotify Playing 
 
-[![Spotify](https://stryzhh.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify?si=f5740e369e664393)
+[![Spotify](https://spotify-listener-neaz8lzgp-stryzhh.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify?si=f5740e369e664393)
