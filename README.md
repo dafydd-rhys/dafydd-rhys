@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
 
+### Spotify Playing :headphones:
+
 [![Spotify](https://spotify-listener-neaz8lzgp-stryzhh.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify?si=f5740e369e664393)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
