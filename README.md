@@ -31,4 +31,4 @@
 
 ### Spotify Playing 
 
-[<img src="https://novatorem-kappa-two.vercel.app/api/spotify-playing" alt"Spotify Now Playing" width="350" />](https://open.spotify.com/user/dafyddmspotify?si=086bbb1cf2ee40a9)
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
