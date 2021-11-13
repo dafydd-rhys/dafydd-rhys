@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stryzhh&show_icons=true&locale=en" alt="stryzhh" /></p>
 
-[![Spotify](https://dafyddmspotify.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify)
+### Spotify Playing 
+
+[<img src="https://novatorem-kappa-two.vercel.app/api/spotify-playing" alt"Spotify Now Playing" width="350" />](https://open.spotify.com/user/dafyddmspotify?si=086bbb1cf2ee40a9)
