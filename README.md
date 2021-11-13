@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
 
-### Spotify Playing :headphones:
+### Spotify Currently Playing :headphones:
 
 [![Spotify](https://spotify-listener-neaz8lzgp-stryzhh.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify?si=f5740e369e664393)
 
