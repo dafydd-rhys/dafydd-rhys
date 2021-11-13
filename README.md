@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stryzhh&show_icons=true&locale=en" alt="stryzhh" /></p>
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://dafyddmspotify.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify)
