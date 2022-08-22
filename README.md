@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [my project zoom-volume-adjuster, it requires implementation of C#.](https://github.com/Stryzhh/zoom-volume-adjuster)
 
-- 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](dafyddmaund.co.uk)
+- 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](https://stryzhh.github.io/)
 
 - 📫 How to reach me **maund.dafyddrhys@gmail.com**
 
