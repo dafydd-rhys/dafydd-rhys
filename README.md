@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
 ### Spotify Currently Playing :headphones:
-[![Spotify](https://spotify-listener.vercel.app/api/spotify)](https://open.spotify.com/user/dafyddmspotify)
+[![Spotify](https://spotify-listener.vercel.app)](https://open.spotify.com/user/dafyddmspotify)
 
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake in Java as part of a university module taught at Swansea University.](https://github.com/Stryzhh/rats-windows-remake)
 
