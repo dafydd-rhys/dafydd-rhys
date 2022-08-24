@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://codepen.io/stryzhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="stryzhh" height="30" width="40" /></a>
 <a href="https://dev.to/stryzhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stryzhh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dafydd-rhys-maund-b71439226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dafydd-rhys-maund-b71439226" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dafydd-rhys-maund-b71439226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dafydd-rhys-maund-b71439226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16427935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16427935" height="30" width="40" /></a>
 <a href="https://codesandbox.com/stryzhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stryzhh" height="30" width="40" /></a>
 </p>
