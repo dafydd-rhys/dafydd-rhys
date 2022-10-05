@@ -6,22 +6,22 @@
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
-- 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/Stryzhh/rats-windows-remake) in Java as part of a university module taught at Swansea University.
+- 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
 
 - 🌱 I’m currently learning **Java, Python, Haskell and Prolog.**
 
 - 👯 I’m looking to collaborate on **interesting and/or useful software that can be used by thousands.**
 
-- 🤝 I’m looking for help with my project [zoom-volume-adjuster](https://github.com/Stryzhh/zoom-volume-adjuster), it requires implementation of C#.
+- 🤝 I’m looking for help with my project [zoom-volume-adjuster](https://github.com/dafydd-rhys/zoom-volume-adjuster), it requires implementation of C#.
 
-- 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](https://stryzhh.github.io/)
+- 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
 - 📫 How to reach me **maund.dafyddrhys@gmail.com**
 
-<a href="https://github.com/Stryzhh">
+<a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stryzhh&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/Stryzhh">
+<a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stryzhh&theme=github_dark&hide_border=true" />
 </a>
 
