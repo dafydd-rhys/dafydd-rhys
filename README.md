@@ -19,10 +19,10 @@
 - 📫 How to reach me **maund.dafyddrhys@gmail.com**
 
 <a href="https://github.com/dafydd-rhys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stryzhh&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/dafydd-rhys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stryzhh&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafydd-rhys&theme=github_dark&hide_border=true" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
