@@ -5,7 +5,7 @@
 
 Currently studying [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at Swansea University
 
-- ✅ Year 1: 72%
+- ✅ Year 1: 1:1
 - ✅ Year 2: ?
 - ❎ Year 3: ?
 
