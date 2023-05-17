@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
+### Spotify Currently Playing :headphones:
+[![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
+
 Currently studying [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at Swansea University
 
 - ✅ Year 1: 1st
@@ -10,9 +13,6 @@ Currently studying [BSc Software Engineering](https://www.swansea.ac.uk/undergra
 - ❎ Year 3: ?
 
 Overall Grade: ?
-
-### Spotify Currently Playing :headphones:
-[![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
 
