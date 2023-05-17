@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
-Currently studying BSc at Swansea University
+Currently studying [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at Swansea University
 
 - ✅ Year 1: 72%
 - ✅ Year 2: ?
