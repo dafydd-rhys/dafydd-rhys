@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
+Currently studying BSc at Swansea University
+
+- ✅ Year 1: 72%
+- ✅ Year 2: ?
+- ❎ Year 3: ?
+
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
