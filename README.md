@@ -12,15 +12,13 @@ Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergradua
 
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
 
-- 🌱 I’m currently learning **Java, Python, Haskell and Prolog.**
+- 🌱 I’m currently learning **Java, JavaScript, C#, Python, Haskell and Prolog.**
 
-- 👯 I’m looking to collaborate on **interesting and/or useful software that can be used by thousands.**
-
-- 🤝 I’m looking for help with my project [zoom-volume-adjuster](https://github.com/dafydd-rhys/zoom-volume-adjuster), it requires implementation of C#.
+- 👯 I’m looking to collaborate and work on **interesting and/or useful open source software.**
 
 - 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
-- 📫 How to reach me **maund.dafyddrhys@gmail.com**
+- 📫 How to reach me **dafyddmaund.work@gmail.com**
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
