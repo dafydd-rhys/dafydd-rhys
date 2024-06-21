@@ -6,13 +6,9 @@
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
-Currently studying [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at Swansea University
+Currently studying [MSc Cyber Security](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-cyber-security/) at Swansea University
 
-- ✅ Year 1: 1st
-- ✅ Year 2: 1st
-- ❎ Year 3: ?
-
-Overall Grade: ?
+Achieved [First Class Honours(https://en.wikipedia.org/wiki/British_undergraduate_degree_classification)] in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at Swansea University
 
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
 
