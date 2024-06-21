@@ -8,7 +8,7 @@
 
 Currently studying [MSc Cyber Security](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-cyber-security/) at Swansea University
 
-Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification)] in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University (https://www.swansea.ac.uk/)]
+Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification) in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University] (https://www.swansea.ac.uk/)
 
 - 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
 
