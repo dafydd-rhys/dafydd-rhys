@@ -12,13 +12,13 @@ Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergradua
 
 - 🔭 I’m currently working on a [Master's Thesis](https://www.masterstudies.com/articles/what-is-a-masters-thesis) as part of my final year at Swansea University.
 
-- 💻 I’m profilific in **Java, JavaScript, Kotlin, C# and PHP.**
+- 💻 I’m prolific in **Java, JavaScript, Kotlin, C# and PHP.**
 
 - 📃 I’m capable in **Python, Haskell and Prolog.**
 
-- 👯 I’m looking to collaborate and work on **interesting and/or useful open source software.**
+- 👯 I’m looking to gain experience working on software related to **network and cloud security.**
 
-- 👨‍💻 All of my projects are available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
+- 👨‍💻 My porfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
 - 📫 How to reach me **dafyddmaund.work@gmail.com**
 
