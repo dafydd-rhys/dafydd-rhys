@@ -10,9 +10,11 @@ Currently studying [MSc Cyber Security](https://www.swansea.ac.uk/postgraduate/t
 
 Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification) in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University](https://www.swansea.ac.uk/)
 
-- 🔭 I’m currently working on [Rats! (Windows 1996) remake](https://github.com/dafydd-rhys/rats-windows-remake) in Java as part of a university module taught at Swansea University.
+- 🔭 I’m currently working on a [Master's Thesis](https://www.masterstudies.com/articles/what-is-a-masters-thesis) as part of a my final year at Swansea University.
 
-- 🌱 I’m currently learning **Java, JavaScript, C#, Python, Haskell and Prolog.**
+- 🌱 I’m profilific in **Java, JavaScript, Kotlin, C# and PHP.**
+
+- 🌱 I’m capable in **Python, Haskell and Prolog.**
 
 - 👯 I’m looking to collaborate and work on **interesting and/or useful open source software.**
 
