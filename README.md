@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
 
+###I'm Dafydd-Rhys, a full-stack developer living in Wales and currently a student at Swansea University. I'm interested in web and mobile development with a strong passion for UX & UI Design. I also love experementing in game development.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
 ### Spotify Currently Playing :headphones:
