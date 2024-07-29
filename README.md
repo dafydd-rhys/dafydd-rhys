@@ -1,9 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
-
 <h4 align="center">I'm Dafydd-Rhys, a full-stack developer living in Wales and currently a student at Swansea University. I'm interested in web and mobile development with a strong passion for UX & UI Design. I also love experementing in game development.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
