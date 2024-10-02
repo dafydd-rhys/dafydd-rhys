@@ -6,7 +6,7 @@
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
-Currently studying a Masters in [Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at Swansea University
+Currently studying a [Masters in Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at [Swansea University](https://www.swansea.ac.uk/)
 
 Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification) in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University](https://www.swansea.ac.uk/)
 
