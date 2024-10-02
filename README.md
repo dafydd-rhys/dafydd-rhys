@@ -1,22 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
-<h4 align="center">I'm Dafydd-Rhys, a full-stack developer living in Wales and currently a student at Swansea University. I'm interested in web and mobile development with a strong passion for UX & UI Design. I also love experementing in game development.</h4>
+<h4 align="center">I'm Dafydd-Rhys, a full-stack developer based in Wales and currently studying at Swansea University. I'm passionate about web and mobile development, with a strong focus on UX/UI design, and I'm equally fascinated by machine learning and artificial intelligence. Additionally, I enjoy experimenting with game development.</h4>
 
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
 
-Currently studying [MSc Cyber Security](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-cyber-security/) at Swansea University
+Currently studying [MSc Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at Swansea University
 
 Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification) in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University](https://www.swansea.ac.uk/)
 
 - 🔭 I’m currently working on a [Master's Thesis](https://www.masterstudies.com/articles/what-is-a-masters-thesis) as part of my final year at Swansea University.
 
-- 💻 I’m prolific in **Java, JavaScript, Kotlin, C# and PHP.**
+- 💻 I’m prolific in **Java, JavaScript, Kotlin, C#, Python and PHP.**
 
-- 📃 I’m capable in **Python, Haskell and Prolog.**
+- 📃 I’m capable in **Haskell and Prolog.**
 
-- 👯 I’m looking to gain experience working on software related to **network and cloud security.**
+- 👯 I'm looking to gain experience in software related to **data science and AI**, focusing on machine learning, data analysis, and predictive analytics. I'm eager to work on data pipelines, model training, and AI-driven insights, while learning about deploying models in production and contributing to AI innovations.
 
 - 👨‍💻 My porfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
