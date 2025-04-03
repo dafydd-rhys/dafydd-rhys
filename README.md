@@ -26,21 +26,17 @@
 ### Spotify Currently Playing :headphones:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dafyddmspotify&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-Currently studying a [Masters in Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at [Swansea University](https://www.swansea.ac.uk/)
+- Currently studying a MSc Data Science at [Swansea University](https://www.swansea.ac.uk/)
 
-Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergraduate_degree_classification) in [BSc Software Engineering](https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-software-engineering/) at [Swansea University](https://www.swansea.ac.uk/)
+- Achieved First Class Honours in BSc (Hons) Software Engineering at [Swansea University](https://www.swansea.ac.uk/)
 
-- 🔭 I’m currently working on a [Master's Thesis](https://www.masterstudies.com/articles/what-is-a-masters-thesis) as part of my final year at Swansea University.
+- 🔭 I’m currently working on a Master's Thesis as part of my final year at Swansea University.
 
-- 💻 I’m prolific in **Java, JavaScript, Kotlin, C#, Python and PHP.**
-
-- 📃 I’m capable in **Haskell and Prolog.**
-
-- 👯 I'm looking to gain experience in software related to **data science and AI**, focusing on machine learning, data analysis, and predictive analytics. I'm eager to work on data pipelines, model training, and AI-driven insights, while learning about deploying models in production and contributing to AI innovations.
+- 💻 I’m prolific in **Java, JavaScript, Python, C#, and PHP.**
 
 - 👨‍💻 My porfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
-- 📫 How to reach me **dafyddmaund.work@gmail.com**
+- 📫 Reach me at **dafyddmaund.work@gmail.com**
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
