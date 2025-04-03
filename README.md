@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
+</div>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -14,9 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stryzhh&label=Profile%20views&color=0e75b6&style=flat" alt="stryzhh" /> </p>
-</div>
 
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
