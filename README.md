@@ -4,8 +4,7 @@
 <h4 align="center">I'm Dafydd-Rhys, a full-stack developer based in Wales and currently studying at Swansea University. I'm passionate about web and mobile development, with a strong focus on UX/UI design, and I'm equally fascinated by machine learning and artificial intelligence. Additionally, I enjoy experimenting with game development.</h4>
 
 ### Spotify Currently Playing :headphones:
-[![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
-[<img src="https://novatorem-pi-ruddy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dafyddmspotify)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dafyddmspotify&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 Currently studying a [Masters in Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at [Swansea University](https://www.swansea.ac.uk/)
 
