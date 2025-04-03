@@ -5,7 +5,7 @@
 
 ### Spotify Currently Playing :headphones:
 [![Spotify](https://novatorem-stryzhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dafyddmspotify)
-[<img src="https://novatorem-pi-ruddy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dafyddmspotify?si=e2c3bd8aed274557)
+[<img src="https://novatorem-pi-ruddy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dafyddmspotify)
 
 Currently studying a [Masters in Data Science](https://www.swansea.ac.uk/postgraduate/taught/maths-comp-sci/computer-science/msc-data-science/) at [Swansea University](https://www.swansea.ac.uk/)
 
