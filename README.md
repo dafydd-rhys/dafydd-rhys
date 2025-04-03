@@ -25,7 +25,7 @@
 ### Spotify Currently Playing :headphones:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dafyddmspotify&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h4 align="center">I'm Dafydd-Rhys, a full-stack developer based in Wales and currently studying at Swansea University. I'm passionate about web and mobile development, with a strong focus on UX/UI design, and I'm equally fascinated by machine learning and artificial intelligence. Additionally, I enjoy experimenting with game development.</h4>
+<h4 align="left">I'm Dafydd-Rhys, a full-stack developer based in Wales and currently studying at Swansea University. I'm passionate about web and mobile development, with a strong focus on UX/UI design, and I'm equally fascinated by machine learning and artificial intelligence. Additionally, I enjoy experimenting with game development.</h4>
 
 - Currently studying a MSc Data Science at [Swansea University](https://www.swansea.ac.uk/)
 
