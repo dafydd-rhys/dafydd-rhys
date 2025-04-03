@@ -36,7 +36,7 @@
 
 - 👨‍💻 My porfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
-- 📫 Reach me at **dafyddmaund.work@gmail.com**
+- 📫 Reach me at ** dafyddmaund.work@gmail.com **
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
