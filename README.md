@@ -54,10 +54,7 @@ Achieved [First Class Honours](https://en.wikipedia.org/wiki/British_undergradua
 <a href="https://codesandbox.com/stryzhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stryzhh" height="30" width="40" /></a>
 </p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stryzhh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dafydd-rhys&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
