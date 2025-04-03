@@ -25,19 +25,19 @@
 ### Spotify Currently Playing :headphones:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dafyddmspotify&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h4 align="left">I'm Dafydd-Rhys, a full-stack developer based in Wales and currently studying at Swansea University. I'm passionate about web and mobile development, with a strong focus on UX/UI design, and I'm equally fascinated by machine learning and artificial intelligence. Additionally, I enjoy experimenting with game development.</h4>
+- 🎓 Currently studying an **MSc Data Science** at [Swansea University](https://www.swansea.ac.uk/)
 
-- Currently studying a MSc Data Science at [Swansea University](https://www.swansea.ac.uk/)
+- 🏆 Achieved **First Class Honours** in **BSc (Hons) Software Engineering** at [Swansea University](https://www.swansea.ac.uk/)
 
-- Achieved First Class Honours in BSc (Hons) Software Engineering at [Swansea University](https://www.swansea.ac.uk/)
+- 💡 Interested in **Full-Stack Development**, with a particular fascination for **Machine Learning** and **Artificial Intelligence**
 
-- 🔭 I’m currently working on a Master's Thesis as part of my final year at Swansea University.
+- 🔭 Currently working on a **Master's Thesis** as part of my final year at [Swansea University](https://www.swansea.ac.uk/)
 
-- 💻 I’m prolific in **Java, JavaScript, Python, C#, and PHP.**
+- 💻 Proficient in **Java, JavaScript, Python, C#, and PHP**
 
-- 👨‍💻 My porfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
+- 👨‍💻 My portfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
-- 📫 Reach me at **dafyddrhys@proton.me**
+- 📫 Reach me at dafyddrhys@proton.me
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
