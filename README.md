@@ -29,7 +29,6 @@
 
 ###
 
-
 <h1 align="center">Hi 👋, I'm Dafydd Maund</h1>
 <h3 align="center">A passionate software developer from Wales.</h3>
 
@@ -45,8 +44,6 @@
 - 🔭 Building an HTML Refinery API and an accurate grade calculator for all UK universities, alongside contributions to open-source projects like [PHPWord](https://github.com/PHPOffice/PHPWord)
 
 - 💻 Proficient in **Java, JavaScript, Python, C#, and PHP**
-
-- 👨‍💻 My portfolio is available at [dafyddmaund.co.uk](https://dafydd-rhys.github.io/)
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
