@@ -43,7 +43,7 @@
 
 - 🔭 Building an HTML Refinery API and an accurate grade calculator for all UK universities, alongside contributions to open-source projects like [PHPWord](https://github.com/PHPOffice/PHPWord)
 
-- 💻 Proficient in **Java, JavaScript, Python, C#, and PHP**
+- 💻 Proficient in **Java, JavaScript, Python, and PHP**
 
 <a href="https://github.com/dafydd-rhys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafydd-rhys&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
